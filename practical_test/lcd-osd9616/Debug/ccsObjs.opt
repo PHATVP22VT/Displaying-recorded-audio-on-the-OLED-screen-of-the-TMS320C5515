@@ -1,1 +1,0 @@
-"./oled_test.obj" "./oled_display.obj" "./main.obj" "./audio_temperature.obj" "./audio_ready.obj" "./audio_hello.obj" "./audio_error.obj" "./audio_complete.obj" -l"cslVC5505.lib" -l"ezdsp5535bsl.lib" -l"rts55x.lib" "../lnkx.cmd" 
